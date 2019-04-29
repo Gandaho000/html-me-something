@@ -1,8 +1,19 @@
+header {
+    text-align: center;
+    font-size: larger;
+    font-style: oblique;
+}
 body {
+    background-color: beige;
     padding: 5%;
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: 'Montserrat', sans-serif;
 }
 footer{
     text-align: center;
+    margin: 10px;
 }
 .center {
     display: block;
